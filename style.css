@@ -1,0 +1,18 @@
+body{
+    background-color: palevioletred;
+    font-family: "Rubik Scribble", system-ui;
+    color:white;
+}
+
+h2{
+    font-weight: 1700px;
+}
+
+h3{
+    font-size: 700px;
+}
+
+span{
+    color:rebeccapurple;
+    font-weight:500px;
+}
